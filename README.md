@@ -1,2 +1,6 @@
-# aula_javascript
-Aula de Java Script na Digital Innovation One
+# Aula de JavaScript feita na Digital Innovation One
+
+Conteúdo:
+
+Conceitos iniciais de JS;
+
